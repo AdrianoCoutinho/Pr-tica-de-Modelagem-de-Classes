@@ -1,2 +1,2 @@
-# Pra-tica-de-Modelagem-de-Classes
+# Prática de modelagem de classes
 Atividade prática para aprendizado backend 
